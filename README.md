@@ -18,13 +18,18 @@ ECOLETA
 
 ## Features
 This app has two major systems combining into a powerful idea that can help people to be more active on the environmental cause.
-<br/>
+<br /> <br />
 It allows recycling companies to sign up through a website in a marketplace to make people know what they collect as waste for recycling. Users, on the other hand, can use the app to look right on the map API where they can discard their wastes and garbages properly. Users can also filter what categories of items the Recycling companies collect in order to get right into what they are looking for.
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+This app uses the best features to web and app development:
+
+- ⚛️ **React Js** — Used for the Company's Sign Up Form website
+- ⚛️ **React Native** — Used for the Users app
+- 💹 **Node Js** — Used for Backend features like App Filters, database manager, Company's profile page and so on
+- 💹 **Node Js Dependencies** - Axios, Knex, Express, Crypto, Multer, Cors and others
 
 ## Getting started
+Clone this repo using <pre><code>git clone git@github.com:sor-alan/NLW-01.git</code></pre>
 
-Describe here the way to use/install your project
+### Server Config
+
