@@ -10,7 +10,7 @@ ECOLETA
 
 
 [//]: # (Add your gifs/images here:)
-<div>
+<div style="align: center">
   <img src="readme_files/1.gif" alt="demo" height="425">
   <img src="readme_files/2.gif" alt="demo" height="425">
 </div>
