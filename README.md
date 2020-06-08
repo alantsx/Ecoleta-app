@@ -16,11 +16,12 @@ ECOLETA
 
 <hr />
 
-## Features
+## About Ecoleta
 This app has two major systems combining into a powerful idea that can help people to be more active on the environmental cause.
 <br /> <br />
 It allows recycling companies to sign up through a website in a marketplace to make people know what they collect as waste for recycling. Users, on the other hand, can use the app to look right on the map API where they can discard their wastes and garbages properly. Users can also filter what categories of items the Recycling companies collect in order to get right into what they are looking for.
 
+## Features
 This app uses the best features to web and app development:
 
 - ⚛️ **React Js** — Used for the Company's Sign Up Form website
