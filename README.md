@@ -19,7 +19,7 @@ ECOLETA
 ## About Ecoleta
 This app has two major systems combining into a powerful idea that can help people to be more active on the environmental cause.
 <br /> <br />
-It allows recycling companies to publish their addres and inform what kind of items they are able to recycle and collect.<br/> Users, on the other hand, can use the app to look right on the map API the nearest recycling point. Users can also filter what categories of items they are looking forward to discard.<br/>
+It allows recycling companies to publish their addres and inform what kind of items they are able to recycle and collect.<br/> Users, on the other hand, can use the app to look right on the map API for the nearest recycling point. Users can also filter what categories of items they are looking forward to discard.<br/>
 By choosing one recycling point, Users have access to selected Company's profile, featuring Photo, Name, address, MailTo Button and Whatsapp Contact Button.
 
 ## Features
