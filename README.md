@@ -3,16 +3,16 @@
   <img src="readme_files/logo.svg" alt="ECOLETA" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+ECOLETA
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Connecting people to Recycling Companies!</p>
 
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="readme_files/logo.svg" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="readme_files/1.gif" alt="demo" height="425">
+  <img src="readme_files/2.gif" alt="demo" height="425">
 </div>
 
 <hr />
