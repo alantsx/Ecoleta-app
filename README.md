@@ -29,8 +29,8 @@ This app uses the best features to web and app development:
 - 💹 **Node Js Dependencies** - Axios, Knex, Express, Crypto, Multer, Cors and others
 
 ## Getting started
-<b>* Yarn required</b> <br/><br/>
-1. Clone this repo using <code>git clone git@github.com:sor-alan/NLW-01.git</code><br/><br/>
+<b>* Yarn required</b><br/>
+1. Clone this repo using <code>git clone git@github.com:sor-alan/NLW-01.git</code>
 
 ### Server Config
 1. Open terminal on src folder <br/>
