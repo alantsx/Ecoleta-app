@@ -47,7 +47,7 @@ This app uses the best features to web and app development:
 3. Run server with <code>npm start</code>
 
 ### App Config
-1. Download Expo App from PlayStores/AppStore <br/>
+1. Download Expo App from PlayStore/AppStore <br/>
 2. Open terminal on mobile folder <br/>
 3. Run server with <code>npm start</code><br/>
 4. Connect your phone through Expo<br/><br/>
