@@ -29,7 +29,10 @@ This app uses the best features to web and app development:
 - 💹 **Node Js Dependencies** - Axios, Knex, Express, Crypto, Multer, Cors and others
 
 ## Getting started
-Clone this repo using <pre><code>git clone git@github.com:sor-alan/NLW-01.git</code></pre>
+<b>* Yarn required</b> <br/><br/>
+1. Clone this repo using <code>git clone git@github.com:sor-alan/NLW-01.git</code><br/><br/>
 
 ### Server Config
-
+1. Open terminal on src folder <br/>
+2. Run <code>npm install</code> to install node dependencies <br/>
+3. Build database by running <code>npx knex migrate:latest --knexfile knexfile.ts</code>
