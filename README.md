@@ -10,8 +10,8 @@ ECOLETA
 
 
 <div align="center">
-  <img src="readme_files/1.gif" alt="demo" height="425">
-  <img src="readme_files/2.gif" alt="demo" height="425">
+  <img src="readme_files/1.gif" alt="Ecoleta" height="425">
+  <img src="readme_files/2.gif" alt="Ecoleta" height="425">
 </div>
 
 <hr />
@@ -33,6 +33,26 @@ This app uses the best features to web and app development:
 1. Clone this repo using <code>git clone git@github.com:sor-alan/NLW-01.git</code>
 
 ### Server Config
-1. Open terminal on src folder <br/>
-2. Run <code>npm install</code> to install node dependencies <br/>
-3. Build database by running <code>npx knex migrate:latest --knexfile knexfile.ts</code>
+1. Set server IP on PointsController.ts and itemsController.ts files<br/>
+2. Open terminal on src folder <br/>
+3. Run <code>npm install</code> to install node dependencies <br/>
+4. Build database by running <code>npx knex migrate:latest --knexfile knexfile.ts</code><br/>
+5. Run server with <code>yarn dev</code>
+
+### Web App Config
+1. Set server and web IP on Api.ts, index.ts (CreatePoint and Home) files<br/>
+2. Open terminal on web folder <br/>
+3. Run server with <code>npm start</code>
+
+### App Config
+1. Download Expo App from PlayStores/AppStore <br/>
+2. Open terminal on mobile folder <br/>
+3. Run server with <code>npm start</code><br/>
+4. Connect your phone through Expo<br/><br/>
+
+<h1 align="center">
+Thank you!
+</h1>
+<div align="center">
+  <img src="readme_files/landing-page.png" alt="Ecoleta">
+</div>
